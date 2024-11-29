@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+}
+
+.product{
+  background-color: beige;
+  float: left;
+  margin: 20px;
+  width:200px;
+  border: 2px solid rgb(117, 114, 114);
+  text-align: center;
+}
+
+.product:hover{
+  background-color: rgb(234, 171, 55);
+}
+
+.product1
+{
+  background-color: beige;
+  float: left;
+  margin: 20px;
+  width:200px;
+  border: 2px solid rgb(117, 114, 114);
+  text-align: center;
+}
+
+.product1:hover{
+  background-color: rgb(234, 171, 55);
+}
+
+.clefix{
+  clear: both;
+}
+
+.product img
+{
+  width: 100%;
+}
+
+.product1 img{
+  width: 100%;
+}
